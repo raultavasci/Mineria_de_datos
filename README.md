@@ -13,3 +13,8 @@
 [P2-Visualización de Datos](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/V_Datos-checkpoint.ipynb)
 
 [Avance 2 PIA](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance2_MDatos-checkpoint.ipynb)
+
+#Extra
+[Ejercicios Python]
+
+[PIA]
