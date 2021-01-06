@@ -16,6 +16,6 @@
 
 #Extra
 
-[Ejercicios Python](https://github.com/raultavasci/Mineria_de_datos/blob/master/Untitled3.ipynb)
+[Extraordinario_Martínez_Tavasci_Raúl_002_Parte_ejericios_python](https://github.com/raultavasci/Mineria_de_datos/blob/master/Untitled3.ipynb)
 
-[PIA](https://github.com/raultavasci/Mineria_de_datos/blob/master/Parte2pia.ipynb)
+[Extraordinario_Martínez_Tavasci_Raúl_002_Parte_Visualización_de_datos_y_objetivos](https://github.com/raultavasci/Mineria_de_datos/blob/master/Parte2pia.ipynb)
