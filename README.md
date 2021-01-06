@@ -15,6 +15,7 @@
 [Avance 2 PIA](https://github.com/JavierHdzzz/Mineria_Datos/blob/master/Avance2_MDatos-checkpoint.ipynb)
 
 #Extra
+
 [Ejercicios Python](https://github.com/raultavasci/Mineria_de_datos/blob/master/Untitled3.ipynb)
 
 [PIA](https://github.com/raultavasci/Mineria_de_datos/blob/master/Parte2pia.ipynb)
